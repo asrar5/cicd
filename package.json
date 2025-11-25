@@ -1,0 +1,16 @@
+{
+  "name": "simple-node-webapp",
+  "version": "1.0.0",
+  "description": "A simple Node.js web application with HTML, CSS, and JavaScript.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.11"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
